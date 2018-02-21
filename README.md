@@ -1,4 +1,7 @@
 # URLer
+[![GitHub issues](https://img.shields.io/github/issues/I-am-4a/URLer.svg)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/I-am-4a/URLer.svg)]()
+[![GitHub commits](https://img.shields.io/github/commits-since/I-am-4a/URLer/1.0.0.svg)]()  
 [![Language](https://img.shields.io/badge/language-PHP,%20Python-blue.svg)]()
 [![PyPI](https://img.shields.io/pypi/pyversions/Django.svg)]()
 [![PHP](https://img.shields.io/badge/php-5.x%20or%20more-blue.svg)]()
