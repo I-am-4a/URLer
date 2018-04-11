@@ -9,7 +9,7 @@ from requests import post
 import json as j
 
 # Request URL
-url = "http://urler.cf/bin/urlgen.php"
+url = "http://urler.cf/bin/urlgen2.php"
 
 # Post Data
 data = {"url": "YOUR LONG LONG URL"}
