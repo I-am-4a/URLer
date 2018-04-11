@@ -24,7 +24,7 @@
 	);
 	
 	// Post URL
-	$url = "http://urler.cf/bin/urlgen.php";
+	$url = "http://urler.cf/bin/urlgen2.php";
 	
 	// Post header
 	$header = array(
